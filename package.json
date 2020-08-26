@@ -1,0 +1,32 @@
+{
+  "name": "rainylink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "rlink": "bin/index.js",
+    "rainylink": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainyzone/rainylink.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "watch"
+  ],
+  "author": "geekrainy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainyzone/rainylink/issues"
+  },
+  "homepage": "https://github.com/rainyzone/rainylink#readme",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "cross-spawn": "^7.0.3",
+    "onchange": "^7.0.2",
+    "program": "^1.0.0",
+    "yalc": "^1.0.0-pre.37"
+  }
+}
