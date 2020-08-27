@@ -2,7 +2,6 @@
   "name": "rainylink",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "bin": {
     "rlink": "bin/index.js",
     "rainylink": "bin/index.js"
